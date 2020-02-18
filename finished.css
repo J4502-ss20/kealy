@@ -1,0 +1,66 @@
+/*styles go here*/
+
+/*p {
+    color: red;
+}*/
+p {
+	color: #000000;
+    font-family:'Cormorant Garamond','Vollkorn','Noto Serif JP', serif;
+		text-align: center;
+		font-weight: normal;
+}
+
+h1 {
+	color: #000000;
+    font-family: 'Cormorant Garamond', serif;
+		text-align: center;
+		font-weight: bold;
+}
+
+h2{
+	color: #000000;
+	font-family: 'Cormorant Garamond', serif;
+	text-align: center;
+	font-weight: normal;
+}
+
+#container{
+    width: 95%;
+    margin: 0 auto;
+}
+
+#nav {
+    padding: 0;
+	  list-style-type: none;
+}
+
+#nav li {
+    margin: 0;
+    padding: 0;
+	  border-bottom: 2px solid #aaa;
+}
+
+#nav a:link, #nav a:visited {
+	  display:block;
+    color: #ffffff;
+    background-color: #000080;
+    text-align:center;
+    text-decoration: none;
+    padding: 4px;
+    font-family:'Vollkorn', sans-serif;
+}
+
+#nav a:hover, #nav a:active {
+    background-color: #add8e6;
+}
+
+#footer {
+    color: black;
+    font-family: 'Noto Serif JP', sans-serif;
+    font-size: 0.8em;
+    border-top: 1px solid black;
+}
+
+img {
+	border: none;
+}
